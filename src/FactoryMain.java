@@ -9,6 +9,6 @@ public static void main(String[] args) {
 	OperatingSystemFactory osf=new OperatingSystemFactory();
 	os obj=osf.getInstance("open");
 	
-	obj.spec();
+	obj.spec(); 
 }
 }
